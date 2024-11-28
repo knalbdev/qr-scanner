@@ -28,7 +28,7 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 
-# TODO 1 - import all of teh dependencies
+# TODO 1 - import all of the dependencies
 dependencies:
   flutter:
     sdk: flutter
@@ -37,6 +37,7 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
+  mobile_scanner: ^6.0.2
 
 dev_dependencies:
   flutter_test:
